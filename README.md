@@ -1,6 +1,6 @@
 <div align="center">
   
-# Raven XD
+# Hypixel Pit Skid by Bilal567
 
 [![Github Release Downloads](https://img.shields.io/github/downloads/xia-mc/Raven-bS/total?label=Github%20Release%20Downloads&style=flat-square)](https://github.com/xia-mc/Raven-bS/releases)
 <!--
