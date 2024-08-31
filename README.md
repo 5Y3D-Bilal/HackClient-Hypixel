@@ -13,6 +13,9 @@
 ![Screenshot 2024-08-13 084510](https://github.com/user-attachments/assets/85637f18-9d6b-47d9-9dc2-cb8594aff585)
 </div>
 
+## I dont own this client all rights gose to xia-mc.
+**This is just a skid of RavenXD and i have added some new features for hypixel pit. Thanks!**
+
 ## How do I build this client?
 
 ### Steps:
