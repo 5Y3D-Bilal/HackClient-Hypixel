@@ -31,7 +31,7 @@
 
 3. **Install Gradle 4.7**:
    - Download from [Gradle 4.7](https://gradle.org/next-steps/?version=4.7&format=bin).
-   - Follow the "Installing manually" guide on the [Gradle wiki](https://gradle.org/install).
+   - Follow the "Installing manually" guidee on the [Gradle wiki](https://gradle.org/install).
 
 4. **Clone the Repository**:
    - Run the following commands in the terminal or command prompt:
